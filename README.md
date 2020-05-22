@@ -1,0 +1,1 @@
+I created a clone a clone of the famous game 2048. On the field which is 4 to 4 generates random cell with the value of 2. By swipping we summ up all numbers with the same value in the direction of swipping. The aim is to reach 2048 number.
