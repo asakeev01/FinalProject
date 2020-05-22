@@ -1,1 +1,35 @@
-I created a clone a clone of the famous game 2048. On the field which is 4 to 4 generates random cell with the value of 2. By swipping we summ up all numbers with the same value in the direction of swipping. The aim is to reach 2048 number.
+Project Proposal
+
+
+
+
+Bishkek 2020
+
+ 
+Title of the Project: FinalProject     
+
+Topic addressed by the project: Game 2048	   
+
+Background: Java OOP, Gradle, Lwjgl, slick2D	
+
+Aim of the project (what): Make people relax
+
+Objectives of the project (why): Because I wanted to know how this game is designed and programmed	   
+
+Expected outcomes: Good feelings after playing game	   
+
+Proposed activities: Update codes and make a good presentation. 
+
+Estimative budget: Free	 
+
+Proposed partners: Nobody	   
+
+Git repository link: https://github.com/asakeev01/FinalProject.git	   
+
+
+Contact person
+
+Name: Aidar
+Surname: Asakeev
+email: aidar.asakeev@iaau.edu.kg
+mobile: +996554910551	 
